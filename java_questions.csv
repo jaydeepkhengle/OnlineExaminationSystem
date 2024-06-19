@@ -1,0 +1,55 @@
+,,,,,,,
+,Sr. No.,Question,Option A,Option B,Option C,Option D,Answer
+,1,What does JVM stand for ?,A) Java Virtual Machine,B) Java Virtual Memory,C) Java Verification Machine,D) Java Variable Manager,A
+,2,Which keyword is used to define a constant in Java ?,A) static,B) final,C) const,D) var,B
+,3,What is the default value of an instance variable in Java if it's not initialized ?,A) 0,B) null,C) undefined,D) It depends on the variable type,B
+,4,Which data type is used to represent a single 16-bit Unicode character in Java ?,A) char,B) byte,C) int,D) short,A
+,5,Which access modifier makes a class or member visible only within its own package ?,A) private,B) protected,C) package-private (default),D) public,C
+,6,Which Java keyword is used to create an instance of a class ?,A) new,B) create,C) instance,D) make,A
+,7,What is the purpose of the 'super' keyword in Java ?,A) It is used to access superclass members,B) It is used to create a new object,C) It is used to define a subclass,D) It is used to access private members,A
+,8,"What is the output of System.out.println(5 + ""10"") ?",A) 510,B) 15,C) 510,D) Compilation error,A
+,9,Which exception is thrown when an array index is out of bounds ?,A) ArrayOutOfBoundsException,B) ArrayIndexException,C) ArrayOutOfRangeError,D) IndexOutOfBoundsException,D
+,10,Which design pattern is used to create an object from a class hierarchy without specifying pattern ?,A) Factory Pattern,B) Singleton Pattern,C) Observer Pattern,D) Builder Pattern,A
+,11,"In Java, which keyword is used to implement multiple inheritance through interfaces ?",A) extends,B) inherits,C) implements,D) extends and implements,C
+,12,What is the purpose of the 'this' keyword in Java ?,A) It is used to refer to the current class object,B) It is used to create a new instance of a class,C) It is used to call a method from another class,D) It is used to declare a variable,A
+,13,Which type of exception is thrown when a program attempts to divide a number by zero in Java ?,A) ArithmeticException,B) DivideByZeroException,C) ZeroDivisionError,D) MathException,A
+,14,What is the output of the following code snippet: System.out.println(10 > 5 && 5 < 2) ?,A) true,B) false,C) Compilation error,D) Runtime error,B
+,15,Which Java collection framework class is used to implement a stack data structure ?,A) ArrayList,B) LinkedList,C) Stack,D) HashSet,C
+,16,What does the 'break' statement do in Java ?,A) It terminates the program execution,B) It terminates the current loop or switch statement,C) It skips the next iteration of a loop,D) It transfers control to a specified label,B
+,17,Classes which are present in Java from JDK 1.0 are called as ?,A) Legacy Classes,B) Legal Classes,C) Traditional Classes,D) POJO,D
+,18,What is the use of the 'static' keyword ?,A) It makes a variable non-modifiable,B) It allows a method to access instance variables,C) It makes a variable or method belong to the class rather than an instance,D) It prevents a class from being instantiated,C
+,19,Who currently owns the Java ?,A) Sun Microsystems,B) Microsoft,C) Google,D) Oracle,D
+,20,"Which component is used to compile, debug and execute the java programs ?","A)  JRE
+",B)JIT,C) JDK,JVM,C
+,21,Who Invented Java ?,A) James Gosling,B) Dennis Ritchie,C) Bjarne Stroustrup,D) None of the above,A
+,22,Which Java keyword is used to define a subclass that inherits from a superclass ?,A)parent,B) child,C) extends,D) inherits,C
+,23,Which data structure in Java is also known as a dynamic array ?,A) Array,B) ArrayList,C) LinkedList,D) HashSet,B
+,24,Which of the following is a type of polymorphism in Java Programming?,A) Multilevel Polymorphism,B) Compile time Polymorphism,C) Multiple Polymorphism,D) None of the above,B
+,25,Which loop uses exit level condition checking ?,A) for loop,B) while loop,C) do-while loop,D) enhanced for loop,D
+,26,"In Java, what does the 'instanceof' operator check for ?",A) It checks if an object is an instance of a specific class,B) It checks if two objects are equal,C) It checks if an object is null,D) It checks if an object is immutable,A
+,27,Which of these keywords are used for the block to be examined for exceptions?,A) try,B) catch,C) finally,D) throw,A
+,28,Which one of the following is not a Java feature ?,"A) a) Object-oriented
+",B) Use of pointers,C) Portable,D) Dynamic and Extensible,B
+,29,Which keyword is used to prevent method overrinding,A) this,B) final,C) finally,D) Static,B
+,30,Which of these cannot be used for a variable name in Java ?,A) identifier & keyword,B)  identifier,C) Keyword,D)  none of the mentioned,C
+,31,What is the size of int data type in java ?,A) 1 byte,B) 8 byte,C) 26 byte,D) 4 byte,D
+,32,What is true regarding Method Overriding ? ,"A)  Same name, same arguement list
+","B) Same name, different aurguement list",C) Can be used only with inheritance,D) Both A&C,D
+,33,What is the purpose of the 'break' statement in Java ?,A) It ends the program execution,B) It ends the current loop or switch statement,C) It continues to the next iteration of a loop,D) It transfers control to a specified label,B
+,34,Which Java keyword is used to explicitly release system resources like files and sockets ?,A) finalize,B) destroy,C) release,D) close,D
+,35,What is the purpose of the 'static' keyword in Java ?,A) It makes a variable unchangeable,B) It allows a method to access instance variables,C) It makes a variable or method belong to the instance rather than the class,D) It prevents a class from being extended,B
+,36,Which method is called when an object is no longer referenced and is eligible for garbage ?,A) destroy(),B) free(),C) finalize(),D) release(),C
+,37,What is the extension of java code files?,A) js,B) txt,C) class,D) java,D
+,38,"What is the output of System.out.println(""Hello"" == ""Hello"") in Java ?",A) true,B) False,C) Compilation error,D) Runtime error,A
+,39,Which of these are selection statements in Java ?,A) break,B) countinue,C) for(),D) if(),D
+,40,Which exception is thrown when java is out of memory ?,A) MemoryError,B)  OutOfMemoryError,C) MemoryOutOfBoundsException,D)  MemoryFullException,B
+,41,What is the purpose of the 'throws' keyword in Java ?,A) It is used to handle exceptions,B) It is used to declare that a method may throw exceptions,C) It is used to catch exceptions,D) It is used to specify the type of exception,B
+,42,Which type of loop is best suited for iterating through a collection in Java ?,A) for loop,B) while loop,C) do-while loop,D) enhanced for loop,D
+,43,What is true about Java ?,A) Statically Typed,B) Dynamically Typed,C) Both,D) None of the above,A
+,44,Which Java package provides classes and interfaces for networking ?,A) java.io,B) java.util,C) java.net,D) java.nio,C
+,45,"What is the output of the following code: System.out.println(3 + 4 + ""5"") ?",A) 75,B) 345,C) 12,D) Compilation error,A
+,46,"Which method is used to compare two strings for equality in Java, considering their content ?",A) equals(),B) compareTo(),C) compare(),D) equalsIgnoreCase(),A
+,47,What is the default size of the char data type in Java ?,A) 8 bits,B) 16 bits,C) 32 bits,D) 64 bits,B
+,48,Which statement is true about Java ?,A)Java is a sequence-dependent programming language,B) Java is a code dependent programming language,C) Java is a platform-dependent programming language,D) 't Java is a platform-independent programming language,D
+,49,Which of the following is not a valid access modifier in Java ?,A) private,B) public,C) protected,D) global,D
+,50,Which of the following is a valid declaration of a two-dimensional array in Java ?,"A) int[][] myArray = new int[3,3];",B) int[][] myArray = new int[3][3];,C) int myArray[][] = new int[3][3];,D) int myArray[3][3] = new int[];,D
